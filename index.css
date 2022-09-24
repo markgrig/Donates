@@ -18,7 +18,7 @@ body {
     
     flex-wrap: wrap;
     padding: 20px;
-    overflow: hidden;
+
 
     color: var(--default-text-color);
     background: var(--main-background);
@@ -31,8 +31,8 @@ body {
 
     list-style: none;
     border-left: 10px solid var(--primary-color);
-    padding: 0;
     width: 40%;
+    min-height: 300px;
     margin-top: 150px ;
     overflow: hidden;
 }
