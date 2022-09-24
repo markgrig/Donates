@@ -32,7 +32,8 @@ body {
     list-style: none;
     border-left: 10px solid var(--primary-color);
     width: 40%;
-    min-height: 300px;
+    min-height: 200px;
+    max-height: 375px;
     margin-top: 150px ;
     overflow: hidden;
 }
